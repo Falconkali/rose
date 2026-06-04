@@ -61,9 +61,7 @@ export default function ConfessionSection() {
       <div className="max-w-3xl mx-auto text-center px-6 relative z-10">
         {/* Header */}
         <div className="mb-20">
-          <span className="text-xs tracking-[0.3em] uppercase text-white/30 mb-4 block" style={{ fontFamily: 'Inter, sans-serif' }}>
-            Section 06
-          </span>
+
           <h2
             className="text-3xl sm:text-4xl md:text-5xl font-light"
             style={{

@@ -77,9 +77,7 @@ export default function FutureSection() {
             transition: 'opacity 0.8s ease, transform 0.8s ease',
           }}
         >
-          <span className="text-xs tracking-[0.3em] uppercase text-white/30 mb-4 block" style={{ fontFamily: 'Inter, sans-serif' }}>
-            Section 08
-          </span>
+
           <h2
             className="text-3xl sm:text-4xl md:text-6xl font-light"
             style={{

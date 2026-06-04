@@ -50,9 +50,7 @@ export default function DescribeSection() {
       <div className="max-w-3xl mx-auto">
         {/* Header */}
         <div className="text-center mb-20">
-          <span className="text-xs tracking-[0.3em] uppercase text-white/30 mb-4 block" style={{ fontFamily: 'Inter, sans-serif' }}>
-            Section 05
-          </span>
+
           <h2
             className="text-3xl sm:text-4xl md:text-6xl font-light"
             style={{

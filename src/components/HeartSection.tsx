@@ -59,9 +59,7 @@ export default function HeartSection() {
             transition: 'opacity 0.8s ease, transform 0.8s ease',
           }}
         >
-          <span className="text-xs tracking-[0.3em] uppercase text-white/30 mb-4 block" style={{ fontFamily: 'Inter, sans-serif' }}>
-            Section 09
-          </span>
+
 
           {/* Animated heartbeat SVG */}
           <div className="flex justify-center mb-8">

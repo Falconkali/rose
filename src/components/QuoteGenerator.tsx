@@ -160,9 +160,7 @@ export default function LoveQuotesSection() {
             transition: 'opacity 0.8s ease, transform 0.8s ease',
           }}
         >
-          <span className="text-xs tracking-[0.3em] uppercase text-white/30 mb-4 block" style={{ fontFamily: 'Inter, sans-serif' }}>
-            Words of Love
-          </span>
+
           <h2
             className="text-3xl sm:text-4xl md:text-5xl font-light"
             style={{
